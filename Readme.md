@@ -147,6 +147,9 @@ This map reflects a more structured European city layout, characterized by:
 It encourages stable lane-following behavior and longer forward trajectories.
 
 ### Pune Map
+
+<img width="607" height="610" src="pune_map.png" />
+
 This map captures the complexity of a dense Indian urban environment, featuring:
 
 * Narrow roads and sharp turns
